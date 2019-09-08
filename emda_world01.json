@@ -1,0 +1,3711 @@
+{
+    "links":[
+        {
+            "source":"Genelle Gertz",
+            "target":"Washington and Lee University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Genelle Gertz",
+            "target":"EMDA3",
+            "type":"participant"
+        },
+        {
+            "source":"Yann Ryan",
+            "target":"EMDA3",
+            "type":"participant"
+        },
+        {
+            "source":"Yann Ryan",
+            "target":"Queen Mary University of London",
+            "type":"affiliation"
+        },
+        {
+            "source":"Boston University",
+            "target":"Erica Zimmer",
+            "type":"affiliation"
+        },
+        {
+            "source":"Emory University",
+            "target":"Erika Farr",
+            "type":"affiliation"
+        },
+        {
+            "source":"University of Alabama",
+            "target":"David Ainsworth",
+            "type":"affiliation"
+        },
+        {
+            "source":"Dan Shore",
+            "target":"Georgetown University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Dan Shore",
+            "target":"EMDA1",
+            "type":"participant"
+        },
+        {
+            "source":"Dan Shore",
+            "target":"Six Degrees of Francis Bacon",
+            "type":"project"
+        },
+        {
+            "source":"Dan Shore",
+            "target":"EMDA3",
+            "type":"faculty"
+        },
+        {
+            "source":"Tony McEnery",
+            "target":"Lancaster University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Tony McEnery",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Shakesosphere",
+            "target":"Blaine Greteman",
+            "type":"project"
+        },
+        {
+            "source":"Bath Spa University",
+            "target":"Ian Gadd",
+            "type":"affiliation"
+        },
+        {
+            "source":"University of Virginia",
+            "target":"Brad Pasanek",
+            "type":"affiliation"
+        },
+        {
+            "source":"Carnegie Mellon University",
+            "target":"Christopher Warren",
+            "type":"affiliation"
+        },
+        {
+            "source":"Carnegie Mellon University",
+            "target":"Jessica Otis",
+            "type":"affiliation"
+        },
+        {
+            "source":"Carnegie Mellon University",
+            "target":"(Michael) Pierce Williams",
+            "type":"affiliation"
+        },
+        {
+            "source":"Carnegie Mellon University",
+            "target":"Scott Weingart",
+            "type":"affiliation"
+        },
+        {
+            "source":"Syracuse University",
+            "target":"J. Patrick Williams",
+            "type":"affiliation"
+        },
+        {
+            "source":"Elyse Martin",
+            "target":"Folger Shakespeare Library",
+            "type":"affiliation"
+        },
+        {
+            "source":"Elyse Martin",
+            "target":"EMDA1",
+            "type":"programsupport"
+        },
+        {
+            "source":"Elyse Martin",
+            "target":"EMDA3",
+            "type":"programsupport"
+        },
+        {
+            "source":"Elyse Martin",
+            "target":"EMDA2",
+            "type":"programsupport"
+        },
+        {
+            "source":"Mike Gleicher",
+            "target":"University of Wisconsin-Madison",
+            "type":"affiliation"
+        },
+        {
+            "source":"Mike Gleicher",
+            "target":"Visualizing English Print",
+            "type":"project"
+        },
+        {
+            "source":"Mike Gleicher",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Erika Farr",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Texas A&M University",
+            "target":"Jacob Heil",
+            "type":"affiliation"
+        },
+        {
+            "source":"Texas A&M University",
+            "target":"Matt Christy",
+            "type":"affiliation"
+        },
+        {
+            "source":"Texas A&M University",
+            "target":"Laura Mandell",
+            "type":"affiliation"
+        },
+        {
+            "source":"Joseph Loewenstein",
+            "target":"Washington University in St. Louis",
+            "type":"affiliation"
+        },
+        {
+            "source":"Joseph Loewenstein",
+            "target":"Humanities Digital Workshop",
+            "type":"project"
+        },
+        {
+            "source":"Joseph Loewenstein",
+            "target":"EMDA1",
+            "type":"participant"
+        },
+        {
+            "source":"Vanderbilt University",
+            "target":"Don Rodrigues",
+            "type":"affiliation"
+        },
+        {
+            "source":"Visualizing English Print",
+            "target":"Heather Froehlich",
+            "type":"project"
+        },
+        {
+            "source":"Visualizing English Print",
+            "target":"Jonathan Hope",
+            "type":"project"
+        },
+        {
+            "source":"Visualizing English Print",
+            "target":"Deidre Stuffer",
+            "type":"project"
+        },
+        {
+            "source":"Visualizing English Print",
+            "target":"Mattie Burket",
+            "type":"project"
+        },
+        {
+            "source":"Jillian Linster",
+            "target":"University of Iowa",
+            "type":"affiliation"
+        },
+        {
+            "source":"Jillian Linster",
+            "target":"EMDA3",
+            "type":"participant"
+        },
+        {
+            "source":"Open Source Shakespeare",
+            "target":"Eric Johnson",
+            "type":"project"
+        },
+        {
+            "source":"Caitlin Rizzo",
+            "target":"University of Maryland, College Park",
+            "type":"affiliation"
+        },
+        {
+            "source":"Caitlin Rizzo",
+            "target":"EMDA3",
+            "type":"techsupport"
+        },
+        {
+            "source":"Hillary Nunn",
+            "target":"Early Modern Recipe Online Collective",
+            "type":"project"
+        },
+        {
+            "source":"Hillary Nunn",
+            "target":"University of Akron",
+            "type":"affiliation"
+        },
+        {
+            "source":"Hillary Nunn",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"Ingeborg van Vugt",
+            "target":"Scuola Normale Superiore di Pisa - University of Amsterdam",
+            "type":"affiliation"
+        },
+        {
+            "source":"Ingeborg van Vugt",
+            "target":"EMDA3",
+            "type":"participant"
+        },
+        {
+            "source":"Studio NAND, Berlin",
+            "target":"Stephan Thiel",
+            "type":"affiliation"
+        },
+        {
+            "source":"Jacob Tootalian",
+            "target":"University of Wisconsin-Madison",
+            "type":"affiliation"
+        },
+        {
+            "source":"Jacob Tootalian",
+            "target":"Digital Cavendish Project",
+            "type":"project"
+        },
+        {
+            "source":"Jacob Tootalian",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"David Hoover",
+            "target":"New York University",
+            "type":"affiliation"
+        },
+        {
+            "source":"David Hoover",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"University of Victoria, BC",
+            "target":"Kim McLean-Fiander",
+            "type":"affiliation"
+        },
+        {
+            "source":"University of Victoria, BC",
+            "target":"Daniel Powell",
+            "type":"affiliation"
+        },
+        {
+            "source":"Matt Christy",
+            "target":"Initiative for Digital Humanities, Media, and Culture",
+            "type":"project"
+        },
+        {
+            "source":"Matt Christy",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Melissa Schultheis",
+            "target":"Rutgers University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Melissa Schultheis",
+            "target":"EMDA3",
+            "type":"participant"
+        },
+        {
+            "source":"Don Rodrigues",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Mattie Burket",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Eric Johnson",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Blaine Greteman",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"John Ladd",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Thea Lindquist",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Maximilian Schich",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Anupam Basu",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Ruth Ahnert",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Michael Gavin",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Tara Wood",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Scott Weingart",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Catherine Medici-Thiemann",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Owen Williams",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Marie-Louise Coolahan",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Christopher Warren",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"(Michael) Pierce Williams",
+            "type":"techsupport"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Matthew Symonds",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Sebastian Ahnert",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Rachel Midura",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Ellen MacKay",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Isabel Meirelles",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Marie Alice Belle",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Jessica Otis",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Silke Vanbeselaere",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Nicole Coleman",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Laura Mandell",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Jonathan Hope",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Howard Hotson",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Gabrielle Linnell",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA3",
+            "target":"Rebecca Emmett",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA3",
+            "target":"David Baker",
+            "type":"participant"
+        },
+        {
+            "source":"Historical Thesaurus of the Oxford English Dictionary",
+            "target":"Marc Alexander",
+            "type":"project"
+        },
+        {
+            "source":"Ohio State University",
+            "target":"Alan Farmer",
+            "type":"affiliation"
+        },
+        {
+            "source":"Mark Alexander",
+            "target":"University of Wisconsin-Madison",
+            "type":"affiliation"
+        },
+        {
+            "source":"Mark Alexander",
+            "target":"EMDA2",
+            "type":"techsupport"
+        },
+        {
+            "source":"Stephan Thiel",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Michael Witmore",
+            "target":"Folger Shakespeare Library",
+            "type":"affiliation"
+        },
+        {
+            "source":"Michael Witmore",
+            "target":"EMDA1",
+            "type":"faculty"
+        },
+        {
+            "source":"Andrew Keener",
+            "target":"Northwestern University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Andrew Keener",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"Marie Alice Belle",
+            "target":"Universit\u00e9 de Montr\u00e9al",
+            "type":"affiliation"
+        },
+        {
+            "source":"Shakespeare His Contemporaries",
+            "target":"Martin Mueller",
+            "type":"project"
+        },
+        {
+            "source":"Jessica Otis",
+            "target":"Six Degrees of Francis Bacon",
+            "type":"project"
+        },
+        {
+            "source":"Erica Zimmer",
+            "target":"EMDA1",
+            "type":"participant"
+        },
+        {
+            "source":"Erica Zimmer",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"MACMORRIS",
+            "target":"David Baker",
+            "type":"project"
+        },
+        {
+            "source":"Mattie Burket",
+            "target":"Utah State University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Heather Froehlich",
+            "target":"EMDA1",
+            "type":"techsupport"
+        },
+        {
+            "source":"Heather Froehlich",
+            "target":"University of Strathclyde",
+            "type":"affiliation"
+        },
+        {
+            "source":"Neil Fraistat",
+            "target":"EMDA1",
+            "type":"faculty"
+        },
+        {
+            "source":"Neil Fraistat",
+            "target":"MITH",
+            "type":"project"
+        },
+        {
+            "source":"Neil Fraistat",
+            "target":"University of Maryland, College Park",
+            "type":"affiliation"
+        },
+        {
+            "source":"De Montfort University",
+            "target":"Gabriel Egan",
+            "type":"affiliation"
+        },
+        {
+            "source":"John Ladd",
+            "target":"Six Degrees of Francis Bacon",
+            "type":"project"
+        },
+        {
+            "source":"John Ladd",
+            "target":"Washington University in St. Louis",
+            "type":"affiliation"
+        },
+        {
+            "source":"John Ladd",
+            "target":"Humanities Digital Workshop",
+            "type":"project"
+        },
+        {
+            "source":"Six Degrees of Francis Bacon",
+            "target":"Christopher Warren",
+            "type":"project"
+        },
+        {
+            "source":"Six Degrees of Francis Bacon",
+            "target":"Scott Weingart",
+            "type":"project"
+        },
+        {
+            "source":"University of Cambridge",
+            "target":"Sebastian Ahnert",
+            "type":"affiliation"
+        },
+        {
+            "source":"Douglas Duhaime",
+            "target":"EMDA1",
+            "type":"participant"
+        },
+        {
+            "source":"Douglas Duhaime",
+            "target":"University of Notre Dame",
+            "type":"affiliation"
+        },
+        {
+            "source":"Cultures of Knowledge: Networking the Republic of Letters, 1550-1750",
+            "target":"Howard Hotson",
+            "type":"project"
+        },
+        {
+            "source":"Tara Wood",
+            "target":"Ball State University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Lynne Magnusson",
+            "target":"EMDA1",
+            "type":"participant"
+        },
+        {
+            "source":"Lynne Magnusson",
+            "target":"University of Toronto",
+            "type":"affiliation"
+        },
+        {
+            "source":"Jacob Heil",
+            "target":"Initiative for Digital Humanities, Media, and Culture",
+            "type":"project"
+        },
+        {
+            "source":"Jacob Heil",
+            "target":"EMDA1",
+            "type":"participant"
+        },
+        {
+            "source":"WordHoard",
+            "target":"Martin Mueller",
+            "type":"project"
+        },
+        {
+            "source":"Julie Dreyfuss",
+            "target":"EMDA1",
+            "type":"programsupport"
+        },
+        {
+            "source":"Julie Dreyfuss",
+            "target":"The George Washington University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Maximilian Schich",
+            "target":"University of Texas at Dallas",
+            "type":"affiliation"
+        },
+        {
+            "source":"Christopher Warren",
+            "target":"EMDA1",
+            "type":"participant"
+        },
+        {
+            "source":"MITH",
+            "target":"Jennifer Guiliano",
+            "type":"project"
+        },
+        {
+            "source":"MITH",
+            "target":"Trevor Mu\u00f1oz",
+            "type":"project"
+        },
+        {
+            "source":"University of Western Australia",
+            "target":"Brett Hirsch",
+            "type":"affiliation"
+        },
+        {
+            "source":"Washington University in St. Louis",
+            "target":"Anupam Basu",
+            "type":"affiliation"
+        },
+        {
+            "source":"Palladio",
+            "target":"Nicole Coleman",
+            "type":"project"
+        },
+        {
+            "source":"Rebecca Niles",
+            "target":"Folger Shakespeare Library",
+            "type":"affiliation"
+        },
+        {
+            "source":"Rebecca Niles",
+            "target":"EMDA1",
+            "type":"faculty"
+        },
+        {
+            "source":"Rebecca Niles",
+            "target":"Folger Digital Texts",
+            "type":"project"
+        },
+        {
+            "source":"Paul Dingman",
+            "target":"Folger Shakespeare Library",
+            "type":"affiliation"
+        },
+        {
+            "source":"Paul Dingman",
+            "target":"Early Modern Manuscripts Online",
+            "type":"project"
+        },
+        {
+            "source":"Paul Dingman",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"University of Wisconsin-Madison",
+            "target":"Deidre Stuffer",
+            "type":"affiliation"
+        },
+        {
+            "source":"Thea Lindquist",
+            "target":"University of Colorado, Boulder",
+            "type":"affiliation"
+        },
+        {
+            "source":"Andrew Prescott",
+            "target":"Glasgow University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Andrew Prescott",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"University of Illinois",
+            "target":"Ted Underwood",
+            "type":"affiliation"
+        },
+        {
+            "source":"Laura Mandell",
+            "target":"Initiative for Digital Humanities, Media, and Culture",
+            "type":"project"
+        },
+        {
+            "source":"Laura Mandell",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Strathclyde University",
+            "target":"Jonathan Hope",
+            "type":"affiliation"
+        },
+        {
+            "source":"J. Patrick Williams",
+            "target":"EMDA1",
+            "type":"participant"
+        },
+        {
+            "source":"University of Iowa",
+            "target":"Blaine Greteman",
+            "type":"affiliation"
+        },
+        {
+            "source":"University of North Carolina",
+            "target":"David Baker",
+            "type":"affiliation"
+        },
+        {
+            "source":"Google, Dublin",
+            "target":"Silke Vanbeselaere",
+            "type":"affiliation"
+        },
+        {
+            "source":"Deborah Leslie",
+            "target":"Folger Shakespeare Library",
+            "type":"affiliation"
+        },
+        {
+            "source":"Deborah Leslie",
+            "target":"EMDA1",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Nicholas Hoffman",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Goran Proot",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Brett Hirsch",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Jacob Halford",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Jennifer Guiliano",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Mark Davies",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Kim McLean-Fiander",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Heather Wolfe",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Julia Flanders",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Mike Poston",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Katherine Rowe",
+            "type":"faculty "
+        },
+        {
+            "source":"EMDA1",
+            "target":"Wendy Hui Kyong Chun",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Owen Williams",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Jonathan Sawday",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"David Ainsworth",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Jacqueline Wernimont",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Marc Alexander",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Ian Gadd",
+            "type":"faculty "
+        },
+        {
+            "source":"EMDA1",
+            "target":"Jonathan Hope",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Ellen MacKay",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Gabriel Egan",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Jonathan Lamb",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Alan Galey",
+            "type":"faculty "
+        },
+        {
+            "source":"EMDA1",
+            "target":"Scott Trudell",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Daniel Powell",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Martin Mueller",
+            "type":"faculty"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Matthew Harrison",
+            "type":"participant"
+        },
+        {
+            "source":"EMDA1",
+            "target":"Robin C. Davis",
+            "type":"participant"
+        },
+        {
+            "source":"Mark Davies",
+            "target":"Brigham Young University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Indiana University",
+            "target":"Whitney Sperrazza",
+            "type":"affiliation"
+        },
+        {
+            "source":"Indiana University",
+            "target":"Ellen MacKay",
+            "type":"affiliation"
+        },
+        {
+            "source":"Brett Hirsch",
+            "target":"Digital Renaissance Editions",
+            "type":"project"
+        },
+        {
+            "source":"Eric Johnson",
+            "target":"Folger Shakespeare Library",
+            "type":"affiliation"
+        },
+        {
+            "source":"Eric Johnson",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Folger Digital Texts",
+            "target":"Mike Poston",
+            "type":"project"
+        },
+        {
+            "source":"Jacqueline Wernimont",
+            "target":"Scripps College",
+            "type":"affiliation"
+        },
+        {
+            "source":"Jacqueline Wernimont",
+            "target":"Women Writers Project",
+            "type":"project"
+        },
+        {
+            "source":"Humanities Digital Workshop",
+            "target":"Anupam Basu",
+            "type":"project"
+        },
+        {
+            "source":"Rebecca Welzenbach",
+            "target":"EEBO-TCP",
+            "type":"project"
+        },
+        {
+            "source":"Rebecca Welzenbach",
+            "target":"University of Michigan",
+            "type":"affiliation"
+        },
+        {
+            "source":"Rebecca Welzenbach",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Rebecca Emmett",
+            "target":"Queen Mary University of London",
+            "type":"affiliation"
+        },
+        {
+            "source":"Martin Mueller",
+            "target":"Northwestern University",
+            "type":"affiliation"
+        },
+        {
+            "source":"University of Warwick",
+            "target":"Jacob Halford",
+            "type":"affiliation"
+        },
+        {
+            "source":"Jonathan Lamb",
+            "target":"Kansas University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Alan Farmer",
+            "target":"Database of Early English Plays",
+            "type":"project"
+        },
+        {
+            "source":"Alan Farmer",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"University of Maryland, College Park",
+            "target":"Scott Trudell",
+            "type":"affiliation"
+        },
+        {
+            "source":"University of Maryland, College Park",
+            "target":"Jennifer Guiliano",
+            "type":"affiliation"
+        },
+        {
+            "source":"University of Maryland, College Park",
+            "target":"Trevor Mu\u00f1oz",
+            "type":"affiliation"
+        },
+        {
+            "source":"Mel Evans",
+            "target":"University of Birmingham",
+            "type":"affiliation"
+        },
+        {
+            "source":"Mel Evans",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"Matthew Harrison",
+            "target":"Princeton University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Michael Gavin",
+            "target":"University of South Carolina",
+            "type":"affiliation"
+        },
+        {
+            "source":"Michael Gavin",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"Goran Proot",
+            "target":"Folger Shakespeare Library",
+            "type":"affiliation"
+        },
+        {
+            "source":"Goran Proot",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Anupam Basu",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"RECIRC",
+            "target":"Marie-Louise Coolahan",
+            "type":"project"
+        },
+        {
+            "source":"Kim McLean-Fiander",
+            "target":"Map of Early Modern London",
+            "type":"project"
+        },
+        {
+            "source":"OCAD University, Toronto",
+            "target":"Isabel Meirelles",
+            "type":"affiliation"
+        },
+        {
+            "source":"University of Toronto",
+            "target":"Alan Galey",
+            "type":"affiliation"
+        },
+        {
+            "source":"Jan Rybicki",
+            "target":"Jagiellonian University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Jan Rybicki",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Wendy Hui Kyong Chun",
+            "target":"Brown University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Collin Jennings",
+            "target":"New York University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Collin Jennings",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"Trevor Mu\u00f1oz",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Marie-Louise Coolahan",
+            "target":"National University of Ireland, Gallway",
+            "type":"affiliation"
+        },
+        {
+            "source":"Lauren Kersey",
+            "target":"Saint Louis University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Lauren Kersey",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"Matthew Symonds",
+            "target":"Centre for Editing Lives and Letters",
+            "type":"project"
+        },
+        {
+            "source":"Matthew Symonds",
+            "target":"University College London",
+            "type":"affiliation"
+        },
+        {
+            "source":"Rachel Midura",
+            "target":"Stanford University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Cambridge University",
+            "target":"Sebastian Ahnert",
+            "type":"affiliation"
+        },
+        {
+            "source":"Early Modern Manuscripts Online",
+            "target":"Heather Wolfe",
+            "type":"project"
+        },
+        {
+            "source":"Saint Louis University",
+            "target":"Jonathan Sawday",
+            "type":"affiliation"
+        },
+        {
+            "source":"University at Buffalo",
+            "target":"Nicholas Hoffman",
+            "type":"affiliation"
+        },
+        {
+            "source":"Robin C. Davis",
+            "target":"CUNY",
+            "type":"affiliation"
+        },
+        {
+            "source":"Whitney Sperrazza",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"Bryn Mawr College",
+            "target":"Katherine Rowe",
+            "type":"affiliation"
+        },
+        {
+            "source":"Ruth Ahnert",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Ruth Ahnert",
+            "target":"Queen Mary University of London",
+            "type":"affiliation"
+        },
+        {
+            "source":"Brown University Library",
+            "target":"Julia Flanders",
+            "type":"affiliation"
+        },
+        {
+            "source":"Julia Flanders",
+            "target":"Women Writers Project",
+            "type":"project"
+        },
+        {
+            "source":"Owen Williams",
+            "target":"Folger Shakespeare Library",
+            "type":"affiliation"
+        },
+        {
+            "source":"Owen Williams",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Nicole Coleman",
+            "target":"Stanford University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Lisa Gitelman",
+            "target":"New York University",
+            "type":"affiliation"
+        },
+        {
+            "source":"Lisa Gitelman",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Deidre Stuffer",
+            "target":"EMDA2",
+            "type":"techsupport"
+        },
+        {
+            "source":"Heather Wolfe",
+            "target":"Folger Shakespeare Library",
+            "type":"affiliation"
+        },
+        {
+            "source":"Heather Wolfe",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Digital Anthology of Early Modern English Drama",
+            "target":"Meaghan Brown",
+            "type":"project"
+        },
+        {
+            "source":"Marina Ansaldo",
+            "target":"University College, Dublin",
+            "type":"affiliation"
+        },
+        {
+            "source":"Marina Ansaldo",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"Meaghan Brown",
+            "target":"Folger Shakespeare Library",
+            "type":"affiliation"
+        },
+        {
+            "source":"Meaghan Brown",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Oxford University",
+            "target":"Howard Hotson",
+            "type":"affiliation"
+        },
+        {
+            "source":"Mike Witmore",
+            "target":"Folger Shakespeare Library",
+            "type":"affiliation"
+        },
+        {
+            "source":"Mike Witmore",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"University of Glasgow",
+            "target":"Marc Alexander",
+            "type":"affiliation"
+        },
+        {
+            "source":"University of California, Berkeley",
+            "target":"Jason Rozumalski",
+            "type":"affiliation"
+        },
+        {
+            "source":"Folger Shakespeare Library",
+            "target":"Mike Poston",
+            "type":"affiliation"
+        },
+        {
+            "source":"Folger Shakespeare Library",
+            "target":"Gabrielle Linnell",
+            "type":"affiliation"
+        },
+        {
+            "source":"Folger Shakespeare Library",
+            "target":"Erin Blake",
+            "type":"affiliation"
+        },
+        {
+            "source":"Jason Rozumalski",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"Ted Underwood",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Paul Schaffner",
+            "target":"EEBO-TCP",
+            "type":"project"
+        },
+        {
+            "source":"Paul Schaffner",
+            "target":"University of Michigan",
+            "type":"affiliation"
+        },
+        {
+            "source":"Paul Schaffner",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"University of Nebraska-Lincoln",
+            "target":"Catherine Medici-Thiemann",
+            "type":"affiliation"
+        },
+        {
+            "source":"Mike Poston",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Chicago University",
+            "target":"Ellen MacKay",
+            "type":"affiliation"
+        },
+        {
+            "source":"Brad Pasanek",
+            "target":"EMDA2",
+            "type":"participant"
+        },
+        {
+            "source":"Creighton University",
+            "target":"Brian Kokensparger",
+            "type":"affiliation"
+        },
+        {
+            "source":"Jonathan Hope",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Sebastian Ahnert",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Erin Blake",
+            "target":"EMDA2",
+            "type":"faculty"
+        },
+        {
+            "source":"Brian Kokensparger",
+            "target":"EMDA2",
+            "type":"participant"
+        }
+    ],
+    "nodes":[
+        {
+            "betw_rank":35,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":50,
+            "degree":2,
+            "id":"Genelle Gertz",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":101,
+            "betweenness":0.0018234616052727015,
+            "bipartite":0,
+            "deg_rank":52,
+            "degree":2,
+            "id":"Yann Ryan",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":99,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":99,
+            "degree":1,
+            "id":"Boston University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":30,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":30,
+            "degree":1,
+            "id":"Emory University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":32,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":32,
+            "degree":1,
+            "id":"University of Alabama",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":5,
+            "betweenness":0.03979568674277336,
+            "bipartite":0,
+            "deg_rank":2,
+            "degree":4,
+            "id":"Dan Shore",
+            "type":"person",
+            "which_emda":[
+                "EMDA1",
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":37,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":54,
+            "degree":2,
+            "id":"Tony McEnery",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":34,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":34,
+            "degree":1,
+            "id":"Shakesosphere",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":64,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":64,
+            "degree":1,
+            "id":"Bath Spa University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":36,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":36,
+            "degree":1,
+            "id":"University of Virginia",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":13,
+            "betweenness":0.0012323366567319636,
+            "bipartite":1,
+            "deg_rank":8,
+            "degree":4,
+            "id":"Carnegie Mellon University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":50,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":50,
+            "degree":1,
+            "id":"Syracuse University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":2,
+            "betweenness":0.07044045850530875,
+            "bipartite":0,
+            "deg_rank":3,
+            "degree":4,
+            "id":"Elyse Martin",
+            "type":"person",
+            "which_emda":[
+                "EMDA1",
+                "EMDA2",
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":85,
+            "betweenness":0.004696094003160098,
+            "bipartite":0,
+            "deg_rank":19,
+            "degree":3,
+            "id":"Mike Gleicher",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":59,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":92,
+            "degree":2,
+            "id":"Erika Farr",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":11,
+            "betweenness":0.0015923156885952773,
+            "bipartite":1,
+            "deg_rank":16,
+            "degree":3,
+            "id":"Texas A&M University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":75,
+            "betweenness":0.007580859856521977,
+            "bipartite":0,
+            "deg_rank":15,
+            "degree":3,
+            "id":"Joseph Loewenstein",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":76,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":77,
+            "degree":1,
+            "id":"Vanderbilt University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":5,
+            "betweenness":0.009464566342148496,
+            "bipartite":1,
+            "deg_rank":5,
+            "degree":5,
+            "id":"Visualizing English Print",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":83,
+            "betweenness":0.004833333333333334,
+            "bipartite":0,
+            "deg_rank":62,
+            "degree":2,
+            "id":"Jillian Linster",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":37,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":38,
+            "degree":1,
+            "id":"Open Source Shakespeare",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":90,
+            "betweenness":0.004483817150155846,
+            "bipartite":0,
+            "deg_rank":72,
+            "degree":2,
+            "id":"Caitlin Rizzo",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":21,
+            "betweenness":0.019476190476190477,
+            "bipartite":0,
+            "deg_rank":24,
+            "degree":3,
+            "id":"Hillary Nunn",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":45,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":67,
+            "degree":2,
+            "id":"Ingeborg van Vugt",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":56,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":46,
+            "degree":1,
+            "id":"Studio NAND, Berlin",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":33,
+            "betweenness":0.011938079448286506,
+            "bipartite":0,
+            "deg_rank":26,
+            "degree":3,
+            "id":"Jacob Tootalian",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":96,
+            "betweenness":0.003222222222222229,
+            "bipartite":0,
+            "deg_rank":100,
+            "degree":2,
+            "id":"David Hoover",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":23,
+            "betweenness":4.758053004710473e-05,
+            "bipartite":1,
+            "deg_rank":20,
+            "degree":2,
+            "id":"University of Victoria, BC",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":91,
+            "betweenness":0.0039165341249301185,
+            "bipartite":0,
+            "deg_rank":29,
+            "degree":3,
+            "id":"Matt Christy",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":40,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":58,
+            "degree":2,
+            "id":"Melissa Schultheis",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":48,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":71,
+            "degree":2,
+            "id":"Don Rodrigues",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":3,
+            "betweenness":0.44941710108074395,
+            "bipartite":1,
+            "deg_rank":3,
+            "degree":39,
+            "id":"EMDA3",
+            "type":"emda",
+            "which_emda":null
+        },
+        {
+            "betw_rank":51,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":51,
+            "degree":1,
+            "id":"Historical Thesaurus of the Oxford English Dictionary",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":33,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":33,
+            "degree":1,
+            "id":"Ohio State University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":100,
+            "betweenness":0.002176174686381727,
+            "bipartite":0,
+            "deg_rank":74,
+            "degree":2,
+            "id":"Mark Alexander",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":49,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":75,
+            "degree":2,
+            "id":"Stephan Thiel",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":103,
+            "betweenness":0.0018022257350819746,
+            "bipartite":0,
+            "deg_rank":73,
+            "degree":2,
+            "id":"Michael Witmore",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":76,
+            "betweenness":0.0060317462430520795,
+            "bipartite":0,
+            "deg_rank":76,
+            "degree":2,
+            "id":"Andrew Keener",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":50,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":77,
+            "degree":2,
+            "id":"Marie Alice Belle",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":73,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":56,
+            "degree":1,
+            "id":"Shakespeare His Contemporaries",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":98,
+            "betweenness":0.0024412499202222976,
+            "bipartite":0,
+            "deg_rank":30,
+            "degree":3,
+            "id":"Jessica Otis",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":8,
+            "betweenness":0.032245805127534236,
+            "bipartite":0,
+            "deg_rank":31,
+            "degree":3,
+            "id":"Erica Zimmer",
+            "type":"person",
+            "which_emda":[
+                "EMDA1",
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":57,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":57,
+            "degree":1,
+            "id":"MACMORRIS",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":32,
+            "betweenness":0.012391717420407011,
+            "bipartite":0,
+            "deg_rank":32,
+            "degree":3,
+            "id":"Mattie Burket",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":31,
+            "betweenness":0.012917626265316125,
+            "bipartite":0,
+            "deg_rank":33,
+            "degree":3,
+            "id":"Heather Froehlich",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":88,
+            "betweenness":0.004587462892331667,
+            "bipartite":0,
+            "deg_rank":43,
+            "degree":3,
+            "id":"Neil Fraistat",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":62,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":61,
+            "degree":1,
+            "id":"De Montfort University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":79,
+            "betweenness":0.004975853050794638,
+            "bipartite":0,
+            "deg_rank":5,
+            "degree":4,
+            "id":"John Ladd",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":7,
+            "betweenness":0.0024599902080596993,
+            "bipartite":1,
+            "deg_rank":6,
+            "degree":5,
+            "id":"Six Degrees of Francis Bacon",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":58,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":54,
+            "degree":1,
+            "id":"University of Cambridge",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":63,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":96,
+            "degree":2,
+            "id":"Douglas Duhaime",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":66,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":67,
+            "degree":1,
+            "id":"Cultures of Knowledge: Networking the Republic of Letters, 1550-1750",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":55,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":87,
+            "degree":2,
+            "id":"Tara Wood",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":81,
+            "betweenness":0.004857142857142857,
+            "bipartite":0,
+            "deg_rank":88,
+            "degree":2,
+            "id":"Lynne Magnusson",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":74,
+            "betweenness":0.007590147825115066,
+            "bipartite":0,
+            "deg_rank":22,
+            "degree":3,
+            "id":"Jacob Heil",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":92,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":92,
+            "degree":1,
+            "id":"Scuola Normale Superiore di Pisa - University of Amsterdam",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":68,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":69,
+            "degree":1,
+            "id":"WordHoard",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":56,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":89,
+            "degree":2,
+            "id":"Julie Dreyfuss",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":57,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":90,
+            "degree":2,
+            "id":"Maximilian Schich",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":6,
+            "betweenness":0.036536689666354594,
+            "bipartite":0,
+            "deg_rank":7,
+            "degree":4,
+            "id":"Christopher Warren",
+            "type":"person",
+            "which_emda":[
+                "EMDA1",
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":14,
+            "betweenness":0.0011223831188797392,
+            "bipartite":1,
+            "deg_rank":12,
+            "degree":3,
+            "id":"MITH",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":72,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":73,
+            "degree":1,
+            "id":"University of Western Australia",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":8,
+            "betweenness":0.0016591091490677989,
+            "bipartite":1,
+            "deg_rank":13,
+            "degree":3,
+            "id":"Washington University in St. Louis",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":74,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":75,
+            "degree":1,
+            "id":"Palladio",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":87,
+            "betweenness":0.004693257389275077,
+            "bipartite":0,
+            "deg_rank":35,
+            "degree":3,
+            "id":"Rebecca Niles",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":92,
+            "betweenness":0.003798757608328404,
+            "bipartite":0,
+            "deg_rank":36,
+            "degree":3,
+            "id":"Paul Dingman",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":18,
+            "betweenness":0.00035164277444336446,
+            "bipartite":1,
+            "deg_rank":9,
+            "degree":4,
+            "id":"University of Wisconsin-Madison",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":36,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":53,
+            "degree":2,
+            "id":"Thea Lindquist",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":39,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":57,
+            "degree":2,
+            "id":"Andrew Prescott",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":77,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":78,
+            "degree":1,
+            "id":"University of Illinois",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":13,
+            "betweenness":0.027078595206513633,
+            "bipartite":0,
+            "deg_rank":9,
+            "degree":4,
+            "id":"Laura Mandell",
+            "type":"person",
+            "which_emda":[
+                "EMDA2",
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":98,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":98,
+            "degree":1,
+            "id":"Strathclyde University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":62,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":95,
+            "degree":2,
+            "id":"J. Patrick Williams",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":24,
+            "betweenness":4.758053004710473e-05,
+            "bipartite":1,
+            "deg_rank":22,
+            "degree":2,
+            "id":"University of Iowa",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":78,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":79,
+            "degree":1,
+            "id":"University of North Carolina",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":79,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":80,
+            "degree":1,
+            "id":"Google, Dublin",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":104,
+            "betweenness":0.0018022257350819746,
+            "bipartite":0,
+            "deg_rank":86,
+            "degree":2,
+            "id":"Deborah Leslie",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":1,
+            "betweenness":0.5030393814182613,
+            "bipartite":1,
+            "deg_rank":2,
+            "degree":43,
+            "id":"EMDA1",
+            "type":"emda",
+            "which_emda":null
+        },
+        {
+            "betw_rank":81,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":82,
+            "degree":1,
+            "id":"University of Notre Dame",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":64,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":97,
+            "degree":2,
+            "id":"Mark Davies",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":15,
+            "betweenness":0.0009822362416583572,
+            "bipartite":1,
+            "deg_rank":23,
+            "degree":2,
+            "id":"Indiana University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":99,
+            "betweenness":0.0024412499202222976,
+            "bipartite":0,
+            "deg_rank":41,
+            "degree":3,
+            "id":"Scott Weingart",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":20,
+            "betweenness":0.019476190476190477,
+            "bipartite":0,
+            "deg_rank":21,
+            "degree":3,
+            "id":"Brett Hirsch",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":85,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":85,
+            "degree":1,
+            "id":"Brigham Young University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":86,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":86,
+            "degree":1,
+            "id":"Utah State University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":87,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":87,
+            "degree":1,
+            "id":"University of Akron",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":41,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":51,
+            "degree":2,
+            "id":"Ian Gadd",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":11,
+            "betweenness":0.02995258316897411,
+            "bipartite":0,
+            "deg_rank":11,
+            "degree":4,
+            "id":"Eric Johnson",
+            "type":"person",
+            "which_emda":[
+                "EMDA2",
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":20,
+            "betweenness":0.00016046328960419738,
+            "bipartite":1,
+            "deg_rank":25,
+            "degree":2,
+            "id":"Folger Digital Texts",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":30,
+            "betweenness":0.014571428571428572,
+            "bipartite":0,
+            "deg_rank":45,
+            "degree":3,
+            "id":"Jacqueline Wernimont",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":106,
+            "betweenness":0.0013778292672002607,
+            "bipartite":0,
+            "deg_rank":101,
+            "degree":2,
+            "id":"(Michael) Pierce Williams",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":9,
+            "betweenness":0.0016591091490677989,
+            "bipartite":1,
+            "deg_rank":15,
+            "degree":3,
+            "id":"Humanities Digital Workshop",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":91,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":91,
+            "degree":1,
+            "id":"Digital Cavendish Project",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":83,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":53,
+            "degree":1,
+            "id":"The George Washington University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":72,
+            "betweenness":0.00969047619047619,
+            "bipartite":0,
+            "deg_rank":42,
+            "degree":3,
+            "id":"Rebecca Welzenbach",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":102,
+            "betweenness":0.0018234616052727015,
+            "bipartite":0,
+            "deg_rank":82,
+            "degree":2,
+            "id":"Rebecca Emmett",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":16,
+            "betweenness":0.024397979348570874,
+            "bipartite":0,
+            "deg_rank":13,
+            "degree":4,
+            "id":"Martin Mueller",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":95,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":95,
+            "degree":1,
+            "id":"University of Warwick",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":66,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":102,
+            "degree":2,
+            "id":"Jonathan Lamb",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":67,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":103,
+            "degree":2,
+            "id":"Silke Vanbeselaere",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":24,
+            "betweenness":0.019476190476190477,
+            "bipartite":0,
+            "deg_rank":47,
+            "degree":3,
+            "id":"Alan Farmer",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":6,
+            "betweenness":0.004876866527630952,
+            "bipartite":1,
+            "deg_rank":7,
+            "degree":5,
+            "id":"University of Maryland, College Park",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":68,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":105,
+            "degree":2,
+            "id":"Mel Evans",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":69,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":107,
+            "degree":2,
+            "id":"Matthew Harrison",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":14,
+            "betweenness":0.026001242347618456,
+            "bipartite":0,
+            "deg_rank":48,
+            "degree":3,
+            "id":"Michael Gavin",
+            "type":"person",
+            "which_emda":[
+                "EMDA2",
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":75,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":76,
+            "degree":1,
+            "id":"University of Texas at Dallas",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":51,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":79,
+            "degree":2,
+            "id":"David Ainsworth",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":15,
+            "betweenness":0.025167266836328476,
+            "bipartite":0,
+            "deg_rank":16,
+            "degree":3,
+            "id":"Goran Proot",
+            "type":"person",
+            "which_emda":[
+                "EMDA2",
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":12,
+            "betweenness":0.027258560901519308,
+            "bipartite":0,
+            "deg_rank":6,
+            "degree":4,
+            "id":"Anupam Basu",
+            "type":"person",
+            "which_emda":[
+                "EMDA2",
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":29,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":29,
+            "degree":1,
+            "id":"RECIRC",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":26,
+            "betweenness":0.014595238095238095,
+            "bipartite":0,
+            "deg_rank":17,
+            "degree":3,
+            "id":"Kim McLean-Fiander",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":89,
+            "betweenness":0.004587462892331667,
+            "bipartite":0,
+            "deg_rank":44,
+            "degree":3,
+            "id":"Jennifer Guiliano",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":31,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":31,
+            "degree":1,
+            "id":"OCAD University, Toronto",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":26,
+            "betweenness":2.3790265023552363e-05,
+            "bipartite":1,
+            "deg_rank":21,
+            "degree":2,
+            "id":"University of Toronto",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":35,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":35,
+            "degree":1,
+            "id":"Database of Early English Plays",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":42,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":61,
+            "degree":2,
+            "id":"Jan Rybicki",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":38,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":55,
+            "degree":2,
+            "id":"Wendy Hui Kyong Chun",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":94,
+            "betweenness":0.003222222222222229,
+            "bipartite":0,
+            "deg_rank":56,
+            "degree":2,
+            "id":"Collin Jennings",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":73,
+            "betweenness":0.009296082025670218,
+            "bipartite":0,
+            "deg_rank":37,
+            "degree":3,
+            "id":"Trevor Mu\u00f1oz",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":19,
+            "betweenness":0.019476190476190477,
+            "bipartite":0,
+            "deg_rank":18,
+            "degree":3,
+            "id":"Marie-Louise Coolahan",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":12,
+            "betweenness":0.0014761496609450749,
+            "bipartite":1,
+            "deg_rank":26,
+            "degree":2,
+            "id":"Northwestern University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":77,
+            "betweenness":0.005369648909946343,
+            "bipartite":0,
+            "deg_rank":59,
+            "degree":2,
+            "id":"Lauren Kersey",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":18,
+            "betweenness":0.019476190476190477,
+            "bipartite":0,
+            "deg_rank":20,
+            "degree":3,
+            "id":"Matthew Symonds",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":39,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":37,
+            "degree":1,
+            "id":"Princeton University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":82,
+            "betweenness":0.004833333333333334,
+            "bipartite":0,
+            "deg_rank":60,
+            "degree":2,
+            "id":"Rachel Midura",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":38,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":39,
+            "degree":1,
+            "id":"Lancaster University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":52,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":52,
+            "degree":1,
+            "id":"Cambridge University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":19,
+            "betweenness":0.00019469494457045517,
+            "bipartite":1,
+            "deg_rank":18,
+            "degree":2,
+            "id":"Early Modern Manuscripts Online",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":16,
+            "betweenness":0.0007300002688815904,
+            "bipartite":1,
+            "deg_rank":19,
+            "degree":2,
+            "id":"Saint Louis University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":41,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":41,
+            "degree":1,
+            "id":"University at Buffalo",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":80,
+            "betweenness":0.004857142857142857,
+            "bipartite":0,
+            "deg_rank":63,
+            "degree":2,
+            "id":"Alan Galey",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":43,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":64,
+            "degree":2,
+            "id":"Jacob Halford",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":44,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":65,
+            "degree":2,
+            "id":"Robin C. Davis",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":40,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":40,
+            "degree":1,
+            "id":"Glasgow University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":93,
+            "betweenness":0.003523030711598782,
+            "bipartite":0,
+            "deg_rank":66,
+            "degree":2,
+            "id":"Whitney Sperrazza",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":42,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":42,
+            "degree":1,
+            "id":"University College London",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":43,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":43,
+            "degree":1,
+            "id":"Jagiellonian University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":45,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":45,
+            "degree":1,
+            "id":"Kansas University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":47,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":47,
+            "degree":1,
+            "id":"Digital Renaissance Editions",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":48,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":48,
+            "degree":1,
+            "id":"Bryn Mawr College",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":17,
+            "betweenness":0.022812607422084016,
+            "bipartite":0,
+            "deg_rank":27,
+            "degree":3,
+            "id":"Ruth Ahnert",
+            "type":"person",
+            "which_emda":[
+                "EMDA2",
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":96,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":96,
+            "degree":1,
+            "id":"Brown University Library",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":29,
+            "betweenness":0.014571428571428572,
+            "bipartite":0,
+            "deg_rank":28,
+            "degree":3,
+            "id":"Julia Flanders",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":49,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":49,
+            "degree":1,
+            "id":"National University of Ireland, Gallway",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":46,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":69,
+            "degree":2,
+            "id":"Katherine Rowe",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":90,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":90,
+            "degree":1,
+            "id":"Early Modern Recipe Online Collective",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":3,
+            "betweenness":0.07044045850530875,
+            "bipartite":0,
+            "deg_rank":4,
+            "degree":4,
+            "id":"Owen Williams",
+            "type":"person",
+            "which_emda":[
+                "EMDA3",
+                "EMDA1",
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":27,
+            "betweenness":0.014595238095238095,
+            "bipartite":0,
+            "deg_rank":23,
+            "degree":3,
+            "id":"Blaine Greteman",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":46,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":65,
+            "degree":1,
+            "id":"University of Birmingham",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":59,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":58,
+            "degree":1,
+            "id":"Ball State University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":53,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":62,
+            "degree":1,
+            "id":"University of Strathclyde",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":54,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":74,
+            "degree":1,
+            "id":"Scripps College",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":17,
+            "betweenness":0.0006244494449840818,
+            "bipartite":1,
+            "deg_rank":10,
+            "degree":3,
+            "id":"Queen Mary University of London",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":28,
+            "betweenness":0.014595238095238095,
+            "bipartite":0,
+            "deg_rank":39,
+            "degree":3,
+            "id":"Nicole Coleman",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":95,
+            "betweenness":0.003222222222222229,
+            "bipartite":0,
+            "deg_rank":80,
+            "degree":2,
+            "id":"Lisa Gitelman",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":84,
+            "betweenness":0.004833333333333334,
+            "bipartite":0,
+            "deg_rank":81,
+            "degree":2,
+            "id":"Daniel Powell",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":86,
+            "betweenness":0.004696094003160098,
+            "bipartite":0,
+            "deg_rank":25,
+            "degree":3,
+            "id":"Deidre Stuffer",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":94,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":94,
+            "degree":1,
+            "id":"Brown University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":60,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":59,
+            "degree":1,
+            "id":"Universit\u00e9 de Montr\u00e9al",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":61,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":60,
+            "degree":1,
+            "id":"Georgetown University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":52,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":83,
+            "degree":2,
+            "id":"Nicholas Hoffman",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":9,
+            "betweenness":0.03214291521679345,
+            "bipartite":0,
+            "deg_rank":14,
+            "degree":4,
+            "id":"Heather Wolfe",
+            "type":"person",
+            "which_emda":[
+                "EMDA2",
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":63,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":63,
+            "degree":1,
+            "id":"University of Colorado, Boulder",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":54,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":85,
+            "degree":2,
+            "id":"Isabel Meirelles",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":65,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":66,
+            "degree":1,
+            "id":"Digital Anthology of Early Modern English Drama",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":53,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":84,
+            "degree":2,
+            "id":"Marina Ansaldo",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":34,
+            "betweenness":0.010643045497521753,
+            "bipartite":0,
+            "deg_rank":34,
+            "degree":3,
+            "id":"Meaghan Brown",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":67,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":68,
+            "degree":1,
+            "id":"Oxford University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":107,
+            "betweenness":0.0008811407356169968,
+            "bipartite":0,
+            "deg_rank":78,
+            "degree":2,
+            "id":"Mike Witmore",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":69,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":70,
+            "degree":1,
+            "id":"University of Glasgow",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":70,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":71,
+            "degree":1,
+            "id":"Centre for Editing Lives and Letters",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":71,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":72,
+            "degree":1,
+            "id":"University of California, Berkeley",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":22,
+            "betweenness":7.137079507065709e-05,
+            "bipartite":1,
+            "deg_rank":14,
+            "degree":3,
+            "id":"New York University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":4,
+            "betweenness":0.030752578952374637,
+            "bipartite":1,
+            "deg_rank":4,
+            "degree":14,
+            "id":"Folger Shakespeare Library",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":58,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":91,
+            "degree":2,
+            "id":"Jason Rozumalski",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":60,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":93,
+            "degree":2,
+            "id":"Gabriel Egan",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":61,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":94,
+            "degree":2,
+            "id":"Ted Underwood",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":22,
+            "betweenness":0.019476190476190477,
+            "bipartite":0,
+            "deg_rank":38,
+            "degree":3,
+            "id":"Howard Hotson",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":97,
+            "betweenness":0.0030702000857386878,
+            "bipartite":0,
+            "deg_rank":68,
+            "degree":2,
+            "id":"Gabrielle Linnell",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":71,
+            "betweenness":0.00969047619047619,
+            "bipartite":0,
+            "deg_rank":40,
+            "degree":3,
+            "id":"Paul Schaffner",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":55,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":55,
+            "degree":1,
+            "id":"Washington and Lee University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":25,
+            "betweenness":4.758053004710473e-05,
+            "bipartite":1,
+            "deg_rank":27,
+            "degree":2,
+            "id":"Stanford University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":27,
+            "betweenness":1.586017668236824e-05,
+            "bipartite":1,
+            "deg_rank":24,
+            "degree":2,
+            "id":"EEBO-TCP",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":10,
+            "betweenness":0.0015923156885952773,
+            "bipartite":1,
+            "deg_rank":11,
+            "degree":3,
+            "id":"Initiative for Digital Humanities, Media, and Culture",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":80,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":81,
+            "degree":1,
+            "id":"University of South Carolina",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":82,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":83,
+            "degree":1,
+            "id":"Rutgers University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":84,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":84,
+            "degree":1,
+            "id":"University of Nebraska-Lincoln",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":10,
+            "betweenness":0.03213524106900578,
+            "bipartite":0,
+            "deg_rank":10,
+            "degree":4,
+            "id":"Mike Poston",
+            "type":"person",
+            "which_emda":[
+                "EMDA1",
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":65,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":98,
+            "degree":2,
+            "id":"Catherine Medici-Thiemann",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":78,
+            "betweenness":0.005027608978200533,
+            "bipartite":0,
+            "deg_rank":99,
+            "degree":2,
+            "id":"Jonathan Sawday",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":88,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":88,
+            "degree":1,
+            "id":"CUNY",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":44,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":44,
+            "degree":1,
+            "id":"Chicago University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":89,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":89,
+            "degree":1,
+            "id":"University College, Dublin",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":47,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":70,
+            "degree":2,
+            "id":"Brad Pasanek",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":93,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":93,
+            "degree":1,
+            "id":"Creighton University",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":1,
+            "betweenness":0.08224809616087092,
+            "bipartite":0,
+            "deg_rank":1,
+            "degree":5,
+            "id":"Jonathan Hope",
+            "type":"person",
+            "which_emda":[
+                "EMDA1",
+                "EMDA2",
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":4,
+            "betweenness":0.04275698800454506,
+            "bipartite":0,
+            "deg_rank":12,
+            "degree":4,
+            "id":"Ellen MacKay",
+            "type":"person",
+            "which_emda":[
+                "EMDA3",
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":7,
+            "betweenness":0.0357155280619042,
+            "bipartite":0,
+            "deg_rank":8,
+            "degree":4,
+            "id":"Sebastian Ahnert",
+            "type":"person",
+            "which_emda":[
+                "EMDA3",
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":23,
+            "betweenness":0.019476190476190477,
+            "bipartite":0,
+            "deg_rank":46,
+            "degree":3,
+            "id":"Marc Alexander",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":21,
+            "betweenness":9.516106009420945e-05,
+            "bipartite":1,
+            "deg_rank":17,
+            "degree":2,
+            "id":"Women Writers Project",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":97,
+            "betweenness":0.0,
+            "bipartite":1,
+            "deg_rank":97,
+            "degree":1,
+            "id":"Map of Early Modern London",
+            "type":"other",
+            "which_emda":null
+        },
+        {
+            "betw_rank":28,
+            "betweenness":1.586017668236824e-05,
+            "bipartite":1,
+            "deg_rank":28,
+            "degree":2,
+            "id":"University of Michigan",
+            "type":"university",
+            "which_emda":null
+        },
+        {
+            "betw_rank":108,
+            "betweenness":0.0008811407356169968,
+            "bipartite":0,
+            "deg_rank":106,
+            "degree":2,
+            "id":"Erin Blake",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":105,
+            "betweenness":0.0017508685230367142,
+            "bipartite":0,
+            "deg_rank":104,
+            "degree":2,
+            "id":"Scott Trudell",
+            "type":"person",
+            "which_emda":[
+                "EMDA1"
+            ]
+        },
+        {
+            "betw_rank":25,
+            "betweenness":0.019476190476190477,
+            "bipartite":0,
+            "deg_rank":49,
+            "degree":3,
+            "id":"David Baker",
+            "type":"person",
+            "which_emda":[
+                "EMDA3"
+            ]
+        },
+        {
+            "betw_rank":70,
+            "betweenness":0.009761904761904762,
+            "bipartite":0,
+            "deg_rank":108,
+            "degree":2,
+            "id":"Brian Kokensparger",
+            "type":"person",
+            "which_emda":[
+                "EMDA2"
+            ]
+        },
+        {
+            "betw_rank":2,
+            "betweenness":0.4747568273246875,
+            "bipartite":1,
+            "deg_rank":1,
+            "degree":45,
+            "id":"EMDA2",
+            "type":"emda",
+            "which_emda":null
+        }
+    ]
+}
